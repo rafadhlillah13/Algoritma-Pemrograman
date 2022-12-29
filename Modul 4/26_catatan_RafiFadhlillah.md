@@ -1,0 +1,1 @@
+Ketika dijalankan program tersebut error dikarenakan code tersebut merupakan code untuk membaca file txt. jika ingin memperbaiki errornya maka kita perlu mengimpor file .txt ke dalam code tersebut maka nanti akan mengoutpukan isi dari file .txt tersebut. selanjutnya program akan berjalan tanpa error
